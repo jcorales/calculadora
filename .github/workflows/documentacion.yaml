@@ -9,7 +9,7 @@ jobs:
 
     steps:
     - name: Saludar
-      uses: actions/hello-world-action-by-abel-corales@v1.0
+      uses: jcorales/hello-world-javascript-action@v1.0
       with:
         who-to-greet: 'Abel'
     
